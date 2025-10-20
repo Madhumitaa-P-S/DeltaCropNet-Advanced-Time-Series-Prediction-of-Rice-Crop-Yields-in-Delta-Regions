@@ -1,0 +1,2 @@
+# DeltaCropNet-Advanced-Time-Series-Prediction-of-Rice-Crop-Yields-in-Delta-Regions
+This repository contains the implementation of DeltaCropNet, a deep learning model for predicting rice crop yields in delta regions. It leverages GRU, LSTM, and RNN networks with time-series data on weather parameters, NDVI, and historical yield to achieve high-accuracy forecasts, supporting sustainable agricultural practices.
