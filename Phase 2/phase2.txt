@@ -1,0 +1,5 @@
+#### **Phase 2: NDVI Prediction**
+*This phase predicts the Normalized Difference Vegetation Index (NDVI), a key indicator of crop health, using the weather forecasts from Phase 1.*
+- **Input:** Historical NDVI data + Historical Weather Data (2000-2019), and Predicted Weather Data for 2020 from Phase 1.
+- **Process:** Trains deep learning models to estimate NDVI values for 2020.
+- **Output:** Predicted NDVI for 2020, which is passed to Phase 3.
