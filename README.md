@@ -14,3 +14,13 @@ The project is organized into three sequential phases, where the output of one p
 - **Phase 1:** Weather Parameter Prediction
 - **Phase 2:** NDVI Prediction using forecasted weather data
 - **Phase 3:** Crop Yield & Production Prediction using forecasted weather and NDVI data
+
+📊 Data Sources
+- Weather Data: NASA POWER
+- NDVI Data: Google Earth Engine
+- Crop Yield Data: DAC-Area Production Statistics
+
+🧠 Models Used
+- Gated Recurrent Unit (GRU)
+- Long Short-Term Memory (LSTM)
+- Simple Recurrent Neural Network (RNN)
