@@ -1,0 +1,5 @@
+#### **Phase 1: Weather Prediction**
+*This phase focuses on predicting future weather parameters essential for crop growth.*
+- **Input:** Historical weather data (2000-2019)
+- **Process:** Trains GRU, LSTM, and RNN models to forecast weather for the target year (2020).
+- **Output:** Predicted weather parameters for 2020, which are used as input for Phase 2.
