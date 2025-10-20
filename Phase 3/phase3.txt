@@ -1,0 +1,5 @@
+#### **Phase 3: Yield Prediction**
+*The final phase predicts crop yield and production by integrating all previous forecasts.*
+- **Input:** Historical Yield/Production Data + Historical Weather & NDVI Data (2000-2019), and the Predicted Weather & NDVI for 2020 from Phases 1 and 2.
+- **Process:** The model is trained to understand the complex relationship between environmental factors and final yield.
+- **Output:** The predicted Rice Crop Yield and Production for the year 2020.
